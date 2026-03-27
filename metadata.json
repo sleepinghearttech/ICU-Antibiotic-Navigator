@@ -1,0 +1,5 @@
+{
+  "name": "ICU Empiric Antibiotic Navigator",
+  "description": "A dynamic clinical reasoning tool for intensive care physicians to determine empiric antibiotic regimens based on ICMR, IDSA, and WHO guidelines.",
+  "requestFramePermissions": ["microphone"]
+}
